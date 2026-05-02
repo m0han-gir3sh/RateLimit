@@ -229,7 +229,7 @@ Alternative Approaches:
 
 1. Start Redis
 docker run -p 6379:6379 redis
-2.Run Application
+2. Run Application
 mvn spring-boot:run
 3. Run Tests
 mvn test
