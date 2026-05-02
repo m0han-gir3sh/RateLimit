@@ -135,8 +135,8 @@ dto/
 
 Utility Layer
 
-util/
-└── ErrorResponseUtil
+exception/
+└── ApiErrorResponseWriter
 
 - Centralized error response handler
 - Converts DTO → JSON response
