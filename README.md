@@ -1,5 +1,5 @@
 
-## Rate Limiter
+# Rate Limiter
 
 A scalable, thread-safe distributed rate limiting system built using Spring Boot, Redis, and Lua scripting, designed for high-concurrency API protection in microservice architectures.
 
